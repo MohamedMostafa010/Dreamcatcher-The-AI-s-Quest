@@ -46,9 +46,11 @@ A fun and interactive game where you (or an AI) navigate through a dream world t
 - The highest score is saved during the session and displayed at the end of each game.
 
 ## 📸 Screenshots
-![Normal Playing](assets/Playing.png)
-![When Winning](assets/Winning.png)
-![When Losing](assets/Losing.png)
+<p align="center">
+  <img src="assets/Playing.png" alt="Normal Playing" width="50%">
+  <img src="assets/Winning.png" alt="When Winning" width="50%">
+  <img src="assets/Losing.png" alt="When Losing" width="50%">
+</p>
 
 ## 🔥 Future Enhancements
 - Add different AI strategies (e.g., reinforcement learning).
