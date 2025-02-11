@@ -52,4 +52,3 @@ A fun and interactive game where you (or an AI) navigate through a dream world t
 - Add different AI strategies (e.g., reinforcement learning).
 - Implement more complex obstacles and power-ups.
 - Multiplayer mode (local or online).
-- 
